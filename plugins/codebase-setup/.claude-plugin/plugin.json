@@ -1,0 +1,24 @@
+{
+  "name": "codebase-setup",
+  "version": "1.0.0",
+  "description": "Professional codebase setup for developers migrating from Lovable/Bolt/v0. Feature-based architecture, naming conventions, and config-driven patterns.",
+  "author": {
+    "name": "Vibe Coding Academy",
+    "url": "https://vibecodingacademy.nl"
+  },
+  "repository": "https://github.com/mralbertzwolle/vibe-coding-academy-tools",
+  "license": "CC BY-NC 4.0",
+  "keywords": [
+    "codebase",
+    "setup",
+    "architecture",
+    "naming",
+    "config-driven",
+    "lovable",
+    "bolt",
+    "v0",
+    "migration"
+  ],
+  "commands": ["./commands/"],
+  "skills": ["./skills/"]
+}

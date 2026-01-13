@@ -1,0 +1,22 @@
+{
+  "name": "performance-audit",
+  "version": "1.0.0",
+  "description": "Performance audits for web applications - bundle size, Core Web Vitals, database queries, React rendering, and more",
+  "author": {
+    "name": "Vibe Coding Academy",
+    "url": "https://vibecodingacademy.nl"
+  },
+  "repository": "https://github.com/mralbertzwolle/vibe-coding-academy-tools",
+  "license": "CC BY-NC 4.0",
+  "keywords": [
+    "performance",
+    "audit",
+    "bundle",
+    "web-vitals",
+    "react",
+    "optimization",
+    "lighthouse"
+  ],
+  "commands": ["./commands/"],
+  "skills": ["./skills/"]
+}

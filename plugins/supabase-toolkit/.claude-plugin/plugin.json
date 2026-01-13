@@ -1,0 +1,23 @@
+{
+  "name": "supabase-toolkit",
+  "version": "1.0.0",
+  "description": "Supabase-specific tools for authentication setup, RLS policies, RPC generation, and migration linting",
+  "author": {
+    "name": "Vibe Coding Academy",
+    "url": "https://vibecodingacademy.nl"
+  },
+  "repository": "https://github.com/mralbertzwolle/vibe-coding-academy-tools",
+  "license": "CC BY-NC 4.0",
+  "keywords": [
+    "supabase",
+    "rls",
+    "authentication",
+    "jwt",
+    "migration",
+    "rpc",
+    "postgresql",
+    "security"
+  ],
+  "commands": ["./commands/"],
+  "skills": ["./skills/"]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ai-seo-audit",
+  "version": "1.0.0",
+  "description": "Audit websites for AI discoverability - Generative Engine Optimization (GEO) for ChatGPT, Claude, Perplexity",
+  "author": {
+    "name": "Vibe Coding Academy",
+    "url": "https://vibecodingacademy.nl"
+  },
+  "repository": "https://github.com/mralbertzwolle/vibe-coding-academy-tools",
+  "license": "CC BY-NC 4.0",
+  "keywords": [
+    "ai-seo",
+    "geo",
+    "generative-engine-optimization",
+    "llms-txt",
+    "chatgpt",
+    "claude",
+    "perplexity",
+    "schema-org",
+    "structured-data"
+  ],
+  "commands": ["./commands/"],
+  "skills": ["./skills/"]
+}

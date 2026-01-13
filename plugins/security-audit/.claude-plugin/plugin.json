@@ -1,0 +1,24 @@
+{
+  "name": "security-audit",
+  "version": "1.0.0",
+  "description": "Complete security audits with 75+ checks for web applications - OWASP, Supabase RLS, payment security, and more",
+  "author": {
+    "name": "Vibe Coding Academy",
+    "url": "https://vibecodingacademy.nl"
+  },
+  "repository": "https://github.com/mralbertzwolle/vibe-coding-academy-tools",
+  "license": "CC BY-NC 4.0",
+  "keywords": [
+    "security",
+    "audit",
+    "owasp",
+    "supabase",
+    "rls",
+    "payment-security",
+    "idor",
+    "xss",
+    "sql-injection"
+  ],
+  "commands": ["./commands/"],
+  "skills": ["./skills/"]
+}

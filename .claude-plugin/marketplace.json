@@ -1,0 +1,52 @@
+{
+  "name": "vibe-coding-academy",
+  "description": "Open-source Claude Code plugins by Vibe Coding Academy - Security, AI SEO, codebase setup, Supabase, performance, and accessibility tools",
+  "owner": {
+    "name": "Vibe Coding Academy",
+    "url": "https://vibecodingacademy.nl"
+  },
+  "plugins": [
+    {
+      "name": "security-audit",
+      "source": "./plugins/security-audit",
+      "description": "Complete security audits with 75+ checks - OWASP, Supabase RLS, payment security, and more",
+      "version": "1.0.0",
+      "keywords": ["security", "audit", "owasp", "supabase", "rls"]
+    },
+    {
+      "name": "ai-seo-audit",
+      "source": "./plugins/ai-seo-audit",
+      "description": "AI discoverability audit (GEO) - llms.txt, schema.org, AI permissions for ChatGPT, Claude, Perplexity",
+      "version": "1.0.0",
+      "keywords": ["ai-seo", "geo", "llms-txt", "chatgpt", "claude", "perplexity", "schema-org", "structured-data"]
+    },
+    {
+      "name": "codebase-setup",
+      "source": "./plugins/codebase-setup",
+      "description": "Professional codebase setup for Lovable/Bolt/v0 migrations - feature architecture, naming conventions, config-driven patterns",
+      "version": "1.0.0",
+      "keywords": ["codebase", "setup", "architecture", "naming", "config-driven", "lovable", "bolt", "migration"]
+    },
+    {
+      "name": "supabase-toolkit",
+      "source": "./plugins/supabase-toolkit",
+      "description": "Supabase-specific tools - authentication, RLS policies, RPC generation, migration linting",
+      "version": "1.0.0",
+      "keywords": ["supabase", "rls", "authentication", "jwt", "migration", "rpc", "postgresql"]
+    },
+    {
+      "name": "performance-audit",
+      "source": "./plugins/performance-audit",
+      "description": "Performance audits - bundle size, React rendering, database queries, network patterns",
+      "version": "1.0.0",
+      "keywords": ["performance", "audit", "bundle", "react", "optimization", "lighthouse"]
+    },
+    {
+      "name": "accessibility-audit",
+      "source": "./plugins/accessibility-audit",
+      "description": "WCAG 2.1 accessibility audits - color contrast, ARIA, keyboard navigation, screen readers",
+      "version": "1.0.0",
+      "keywords": ["accessibility", "a11y", "wcag", "aria", "screen-reader", "keyboard"]
+    }
+  ]
+}

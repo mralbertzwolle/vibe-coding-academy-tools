@@ -1,0 +1,22 @@
+{
+  "name": "accessibility-audit",
+  "version": "1.0.0",
+  "description": "WCAG 2.1 accessibility audits - color contrast, ARIA, keyboard navigation, screen readers, and more",
+  "author": {
+    "name": "Vibe Coding Academy",
+    "url": "https://vibecodingacademy.nl"
+  },
+  "repository": "https://github.com/mralbertzwolle/vibe-coding-academy-tools",
+  "license": "CC BY-NC 4.0",
+  "keywords": [
+    "accessibility",
+    "a11y",
+    "wcag",
+    "aria",
+    "screen-reader",
+    "keyboard",
+    "contrast"
+  ],
+  "commands": ["./commands/"],
+  "skills": ["./skills/"]
+}

@@ -50,6 +50,8 @@ Tested on production apps with 400+ database tables.
 
 ## Documentation
 
+- **[Getting Started](docs/GETTING-STARTED.md)** - New to coding? Start here!
+- **[Aan de Slag (NL)](docs/GETTING-STARTED-NL.md)** - Nederlandse handleiding voor beginners
 - [Full plugin documentation](docs/PLUGINS.md)
 - [Naming conventions](docs/NAMING.md)
 - [Contributing guide](CONTRIBUTING.md)
